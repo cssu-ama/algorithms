@@ -12,3 +12,6 @@ Some important algorithms implementation
 - huffman coding problem
 - interval graph coloring
 - weighted lecture scheduling
+- LIS
+- LPS
+- chain matrix multiplication
